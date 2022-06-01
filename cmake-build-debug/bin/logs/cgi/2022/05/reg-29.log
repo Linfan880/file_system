@@ -1,0 +1,10 @@
+[2022-05-29 13:34:07]--[/tmp/tmp.o3wWnieHFs/src_cgi/register/reg_cgi.c:272]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2022-05-29 13:34:07]--[/tmp/tmp.o3wWnieHFs/src_cgi/register/reg_cgi.c:179]--msql conn success!!!
+[2022-05-29 13:34:07]--[/tmp/tmp.o3wWnieHFs/src_cgi/register/reg_cgi.c:193]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com

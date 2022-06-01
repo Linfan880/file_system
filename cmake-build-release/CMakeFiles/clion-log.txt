@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /tmp/tmp.o3wWnieHFs
+-- Configuring done
+proj src dir is /tmp/tmp.o3wWnieHFs
+cmake bin dir is /tmp/tmp.o3wWnieHFs/cmake-build-release
+-- Generating done
+-- Build files have been written to: /tmp/tmp.o3wWnieHFs/cmake-build-release

@@ -1,0 +1,9 @@
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/src_cgi/login/CMakeFiles/login_cgi_src.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/src_cgi/md5/CMakeFiles/md5_cgi_src.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/src_cgi/myfiles/CMakeFiles/myfiles_cgi_src.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/src_cgi/register/CMakeFiles/register_cgi_src.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/CMakeFiles/test_cJSON.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_hiredis/CMakeFiles/test_hiredis.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_mysql/CMakeFiles/test_mysql.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_string/CMakeFiles/test_string.dir
+/tmp/tmp.o3wWnieHFs/cmake-build-debug/src_cgi/uoload/CMakeFiles/upload_cgi_src.dir

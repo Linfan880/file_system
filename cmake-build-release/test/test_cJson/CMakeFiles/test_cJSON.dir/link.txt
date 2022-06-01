@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/test_cJSON.dir/main.c.o  -o ../../bin/test_cJSON  -L/tmp/tmp.o3wWnieHFs/lib -rdynamic -lcjson -Wl,-rpath,/tmp/tmp.o3wWnieHFs/lib 

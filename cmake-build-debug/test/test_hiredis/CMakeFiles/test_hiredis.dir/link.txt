@@ -1,0 +1,1 @@
+/usr/bin/cc  -g    CMakeFiles/test_hiredis.dir/main.c.o  -o ../../bin/test_hiredis  -L/tmp/tmp.o3wWnieHFs/lib -rdynamic -lhiredis -Wl,-rpath,/tmp/tmp.o3wWnieHFs/lib 

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="test_cJSON" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\test\;CMake Files\test\test_cJson\;CMake Files\test\test_hiredis\;CMake Files\test\test_string\;CMake Files\test\test_mysql\;CMake Files\src_cgi\;CMake Files\src_cgi\login\;CMake Files\src_cgi\register\;CMake Files\src_cgi\uoload\;CMake Files\src_cgi\myfiles\;CMake Files\src_cgi\md5\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_cJSON">
+         <Option output="/tmp/tmp.o3wWnieHFs/cmake-build-debug/bin/test_cJSON" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.o3wWnieHFs/cmake-build-debug/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/tmp/tmp.o3wWnieHFs/include" />
+            <Add directory="/tmp/tmp.o3wWnieHFs/include/disk" />
+            <Add directory="/tmp/tmp.o3wWnieHFs/include/thirdparty" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 test_cJSON" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_cJSON/fast">
+         <Option output="/tmp/tmp.o3wWnieHFs/cmake-build-debug/bin/test_cJSON" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.o3wWnieHFs/cmake-build-debug/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/tmp/tmp.o3wWnieHFs/include" />
+            <Add directory="/tmp/tmp.o3wWnieHFs/include/disk" />
+            <Add directory="/tmp/tmp.o3wWnieHFs/include/thirdparty" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 test_cJSON/fast" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.o3wWnieHFs/cmake-build-debug/test/test_cJson/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_cJson/main.c">
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_cJson/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_cJson\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_cJson/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_cJson\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_cJson/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_cJson\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_hiredis/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_hiredis\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_hiredis/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_hiredis\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_hiredis/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_hiredis\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_string/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_string\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_string/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_string\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_string/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_string\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_mysql/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_mysql\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_mysql/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_mysql\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/test/test_mysql/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\test\test_mysql\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/login/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\login\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/login/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\login\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/login/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\login\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/register/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\register\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/register/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\register\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/register/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\register\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/uoload/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\uoload\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/uoload/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\uoload\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/uoload/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\uoload\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/myfiles/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\myfiles\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/myfiles/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\myfiles\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/myfiles/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\myfiles\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/md5/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\md5\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/md5/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\md5\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.o3wWnieHFs/src_cgi/md5/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src_cgi\md5\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

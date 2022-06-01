@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.o3wWnieHFs/test/test_string/String.cpp
+String.h
+/tmp/tmp.o3wWnieHFs/test/test_string/String.h
+iostream
+/tmp/tmp.o3wWnieHFs/test/test_string/iostream
+cstring
+-
+string
+/tmp/tmp.o3wWnieHFs/test/test_string/string
+
+/tmp/tmp.o3wWnieHFs/test/test_string/String.h
+
+/tmp/tmp.o3wWnieHFs/test/test_string/main.cpp
+String.h
+/tmp/tmp.o3wWnieHFs/test/test_string/String.h
+cstring
+-
+iostream
+-
+cstdio
+-
+cstdlib
+-
+

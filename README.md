@@ -36,8 +36,8 @@
 
 成功登录后可以进入主界面，主界面首先会显示自己已经上传的文件信息，都会存储到后端的fastDFS中，也可以对某一个文件下载到本地（此处没有上传很多文件，虚拟机快没空间了……）：
 
-![upload](https://github.com/Linfan880/file_system/tree/master/pic/upload.jpg)
+![upload](https://github.com/Linfan880/file_system/blob/master/pic/upload.jpg)
 
 同时也可以对文件进行共享，右击文件的属性，可以看到共享字段，点击即可，然后可以在共享列表中查看到刚才分享的文件：
 
-![share](https://github.com/Linfan880/file_system/tree/master/pic/share.jpg)
+![share](https://github.com/Linfan880/file_system/blob/master/pic/share.jpg)

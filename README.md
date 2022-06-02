@@ -6,7 +6,7 @@
 
 ## 二、技术架构
 
-![system](https://github.com/Linfan880/file_system/tree/master/pic/system.jpg)
+![system](https://github.com/Linfan880/file_system/blob/master/pic/system.jpg)
 
 **1.基于Nginx反向代理作为轻量级的Web服务器。**
 
@@ -24,15 +24,15 @@
 
 首先后端需要将conf目录下对应的配置写好，比如cfg.json是配置服务器和数据库相关信息的，storage.conf、tracker.conf、client.conf分别对应fastDFS的三大角色，同样需要配置相应的信息，然后可以启动start.sh，该执行程序是分别启动了Nginx、fastDFS、redis以及Mysql，为每一个CGI程序分配对应的端口信息，输出如下：
 
-![start_sh](https://github.com/Linfan880/file_system/tree/master/pic/start_sh.jpg)
+![start_sh](https://github.com/Linfan880/file_system/blob/master/pic/start_sh.jpg)
 
 紧接着启动Qt前端程序，登录界面如下：
 
-![login](https://github.com/Linfan880/file_system/tree/master/pic/login.jpg)
+![login](https://github.com/Linfan880/file_system/blob/master/pic/login.jpg)
 
 设置界面需要写入需要连接的主机IP地址和端口号，IP地址需要核对待连主机的IP，可以采用ifconfig查看，端口默认是80，因为所有的请求都会先经过Nginx，而Nginx的默认端口是80：
 
-![setting](https://github.com/Linfan880/file_system/tree/master/pic/setting.jpg)
+![setting](https://github.com/Linfan880/file_system/blob/master/pic/setting.jpg)
 
 成功登录后可以进入主界面，主界面首先会显示自己已经上传的文件信息，都会存储到后端的fastDFS中，也可以对某一个文件下载到本地（此处没有上传很多文件，虚拟机快没空间了……）：
 
